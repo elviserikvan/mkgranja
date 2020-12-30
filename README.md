@@ -16,3 +16,7 @@ npm run serve
 ```
 npm run build
 ```
+
+
+# Screenshot
+![Home Page](https://github.com/elviserikvan/mkgranja/blob/main/screenshots/screenshot.jpg "Home Page")
