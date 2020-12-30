@@ -1,5 +1,7 @@
 # mkfrontend
 
+Merka Granja es un mini mercado de hortalizas, panaderia y carniceria. Ubicado en Ciudad Bolivar, Estado Bolivar, Venezuela
+
 ## Project setup
 ```
 npm install
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
